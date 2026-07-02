@@ -34,6 +34,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0520-detect-capital) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
