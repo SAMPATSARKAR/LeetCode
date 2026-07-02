@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Divide and Conquer
 |  |
 | ------- |
