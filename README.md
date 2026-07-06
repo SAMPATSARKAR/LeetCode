@@ -145,4 +145,12 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
