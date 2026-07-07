@@ -60,6 +60,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
