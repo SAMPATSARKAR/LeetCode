@@ -29,6 +29,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1598-crawler-log-folder](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -78,6 +79,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1598-crawler-log-folder](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1598-crawler-log-folder) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
@@ -167,6 +169,7 @@
 ## Stack
 |  |
 | ------- |
+| [1598-crawler-log-folder](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1598-crawler-log-folder) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
