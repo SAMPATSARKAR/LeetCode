@@ -36,6 +36,7 @@
 | [1732-find-the-highest-altitude](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2574-left-and-right-sum-differences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -69,6 +70,7 @@
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1598-crawler-log-folder](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1598-crawler-log-folder) |
+| [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
@@ -131,6 +134,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3174-clear-digits) |
 ## Prefix Sum
