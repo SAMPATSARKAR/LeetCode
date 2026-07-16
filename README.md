@@ -36,6 +36,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -67,6 +68,7 @@
 | [0217-contains-duplicate](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Bit Manipulation
@@ -82,6 +84,7 @@
 | [0075-sort-colors](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
