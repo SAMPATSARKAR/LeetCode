@@ -34,6 +34,7 @@
 | [0303-range-sum-query-immutable](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -68,6 +69,7 @@
 | [0217-contains-duplicate](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
@@ -135,6 +138,7 @@
 | [0022-generate-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Binary Search
 |  |
 | ------- |
