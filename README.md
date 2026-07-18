@@ -47,6 +47,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -75,6 +76,7 @@
 | [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -102,6 +104,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## String
 |  |
