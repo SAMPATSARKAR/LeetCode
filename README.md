@@ -39,6 +39,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -72,6 +73,7 @@
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Bit Manipulation
@@ -99,6 +101,7 @@
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## String
 |  |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Divide and Conquer
