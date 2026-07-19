@@ -86,6 +86,7 @@
 | [0078-subsets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0338-counting-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
