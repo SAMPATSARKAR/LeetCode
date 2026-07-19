@@ -49,6 +49,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -77,6 +78,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1833-maximum-ice-cream-bars](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -106,6 +108,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
@@ -236,4 +239,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
