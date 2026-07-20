@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1025-divisor-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -44,6 +45,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -166,6 +168,7 @@
 | [0152-maximum-product-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0338-counting-bits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
@@ -267,6 +270,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3227-vowels-game-in-a-string) |
