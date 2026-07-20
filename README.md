@@ -13,6 +13,7 @@
 | [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1025-divisor-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -121,6 +122,7 @@
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## String
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1598-crawler-log-folder](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1598-crawler-log-folder) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -272,6 +275,7 @@
 | [0292-nim-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1025-divisor-game) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
