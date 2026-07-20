@@ -11,6 +11,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3828-final-element-after-subarray-deletions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Array
@@ -180,6 +181,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3174-clear-digits) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -253,5 +255,6 @@
 ## Game Theory
 |  |
 | ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
