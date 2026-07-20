@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -256,11 +257,13 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0292-nim-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0292-nim-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
