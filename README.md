@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
@@ -190,6 +191,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -257,6 +259,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting Sort
 |  |
