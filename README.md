@@ -36,6 +36,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0078-subsets) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0078-subsets) |
 ## Design
 |  |
