@@ -160,6 +160,7 @@
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3174-clear-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -315,4 +316,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
