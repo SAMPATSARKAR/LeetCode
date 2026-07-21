@@ -16,6 +16,7 @@
 | [1025-divisor-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1025-divisor-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1447-simplified-fractions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1447-simplified-fractions) |
+| [1492-the-kth-factor-of-n](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2413-smallest-even-multiple](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -272,6 +273,7 @@
 | [0258-add-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1447-simplified-fractions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1447-simplified-fractions) |
+| [1492-the-kth-factor-of-n](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
