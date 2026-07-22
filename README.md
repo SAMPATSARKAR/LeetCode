@@ -63,6 +63,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1598-crawler-log-folder) |
@@ -106,6 +107,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1833-maximum-ice-cream-bars](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -173,6 +175,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
@@ -219,6 +222,7 @@
 | [0704-binary-search](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -248,6 +252,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2614-prime-in-diagonal) |
