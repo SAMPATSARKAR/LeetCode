@@ -8,9 +8,7 @@ public:
         priority_queue<pair<int,int>> pq;
         int max=INT_MIN;
         for(auto x:mpp){
-            
-                pq.push({x.second,x.first});
-            
+            pq.push({x.second,x.first});
         }
         vector<int> v;
         while(k--){
