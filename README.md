@@ -80,6 +80,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2974-minimum-number-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2974-minimum-number-game) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3828-final-element-after-subarray-deletions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
@@ -113,6 +114,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+| [2974-minimum-number-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2974-minimum-number-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2974-minimum-number-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Prefix Sum
