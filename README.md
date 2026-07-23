@@ -26,6 +26,7 @@
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3828-final-element-after-subarray-deletions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Array
@@ -84,6 +85,7 @@
 | [2614-prime-in-diagonal](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2974-minimum-number-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2974-minimum-number-game) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
@@ -128,6 +130,7 @@
 | [0477-total-hamming-distance](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0477-total-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
 | ------- |
