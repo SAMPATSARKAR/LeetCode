@@ -351,4 +351,20 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
