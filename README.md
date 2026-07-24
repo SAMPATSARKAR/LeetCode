@@ -27,6 +27,7 @@
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3828-final-element-after-subarray-deletions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Array
@@ -86,6 +87,7 @@
 | [2974-minimum-number-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2974-minimum-number-game) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3828-final-element-after-subarray-deletions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
@@ -131,6 +133,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Tree
 |  |
 | ------- |
