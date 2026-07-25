@@ -28,6 +28,7 @@
 | [3227-vowels-game-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3828-final-element-after-subarray-deletions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Array
@@ -122,6 +123,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2974-minimum-number-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
