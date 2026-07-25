@@ -365,6 +365,7 @@
 | [0112-path-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -392,4 +393,9 @@
 | [0112-path-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
