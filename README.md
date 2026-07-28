@@ -103,6 +103,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
@@ -134,6 +135,7 @@
 | [0338-counting-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0477-total-hamming-distance) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -175,6 +177,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1447-simplified-fractions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1447-simplified-fractions) |
 | [1598-crawler-log-folder](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1598-crawler-log-folder) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -268,6 +271,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2574-left-and-right-sum-differences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
