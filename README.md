@@ -64,6 +64,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -255,6 +256,7 @@
 | [0152-maximum-product-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
