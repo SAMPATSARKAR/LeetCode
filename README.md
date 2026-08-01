@@ -15,6 +15,7 @@
 | [0292-nim-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -67,6 +68,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -263,6 +265,7 @@
 | [0198-house-robber](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
@@ -347,6 +350,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -390,6 +394,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1025-divisor-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
