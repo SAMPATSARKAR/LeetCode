@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0258-add-digits) |
@@ -245,6 +246,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0338-counting-bits) |
@@ -443,5 +445,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
