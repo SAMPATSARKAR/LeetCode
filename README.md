@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0189-rotate-array) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0198-house-robber) |
@@ -443,6 +445,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
 |  |
