@@ -21,6 +21,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1447-simplified-fractions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1492-the-kth-factor-of-n) |
