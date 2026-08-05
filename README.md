@@ -449,6 +449,7 @@
 | [0112-path-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -456,6 +457,7 @@
 | [0101-symmetric-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0112-path-sum) |
+| [3310-remove-methods-from-project](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -492,4 +494,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
