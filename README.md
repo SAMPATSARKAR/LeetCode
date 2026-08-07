@@ -35,6 +35,7 @@
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -198,6 +199,7 @@
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3174-clear-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -344,6 +347,7 @@
 | [0051-n-queens](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0078-subsets) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Design
 |  |
 | ------- |
@@ -392,6 +396,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting Sort
 |  |
