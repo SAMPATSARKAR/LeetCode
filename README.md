@@ -54,6 +54,7 @@
 | [0051-n-queens](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -302,6 +303,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0162-find-peak-element) |
@@ -346,6 +348,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
