@@ -72,6 +72,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -144,6 +145,7 @@
 | [0217-contains-duplicate](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -245,6 +247,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -312,6 +315,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -353,6 +357,7 @@
 | [0063-unique-paths-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
