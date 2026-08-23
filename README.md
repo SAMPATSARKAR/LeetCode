@@ -10,6 +10,7 @@
 | [0070-climbing-stairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0292-nim-game) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0078-subsets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -394,6 +396,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0509-fibonacci-number) |
 ## Stack
