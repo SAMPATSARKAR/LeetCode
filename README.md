@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0189-rotate-array) |
@@ -172,6 +173,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0231-power-of-two) |
@@ -220,6 +222,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0409-longest-palindrome) |
@@ -334,6 +337,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
