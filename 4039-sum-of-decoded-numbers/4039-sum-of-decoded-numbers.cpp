@@ -3,7 +3,7 @@ class Solution {
     const ll MOD = 1e9+7;
 public:
     ll myPower(ll x,ll y ){
-        if(y==0) return 1.0;
+        if(y==0) return 1;
         ll ans = myPower(x,y/2);
         ll res = (ans*ans) %MOD;
         if(y%2==1){
