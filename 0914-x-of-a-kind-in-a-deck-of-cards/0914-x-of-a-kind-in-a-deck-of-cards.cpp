@@ -5,15 +5,10 @@ public:
         for(int i=0;i<deck.size();i++){
             mpp[deck[i]]++;
         }
-        int g = 0;
-
-        for (auto it : mpp) {
-            g = gcd(g, it.second);
+        int g=0;
+        for(auto x: mpp){
+            g=gcd(g,x.second);
         }
-
-        return g >= 2;
-
-           
-
+        return g>=2;
     }
 };
