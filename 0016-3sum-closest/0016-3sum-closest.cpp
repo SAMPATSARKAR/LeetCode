@@ -2,7 +2,7 @@ class Solution {
 public:
     int threeSumClosest(vector<int>& nums, int target) {
         int n = nums.size();
-        int max_diff = 100000;
+        int prevSum = 100000;
         sort(nums.begin(),nums.end());
         for(int k=0;k<n;k++){
             int sum = nums[k];
@@ -12,8 +12,8 @@ public:
             while(i<j){
                 int sum1 = nums[i]+nums[j];
                 int total = sum1+sum;
-                if(abs(total-target)<abs(max_diff-target)){
-                    max_diff = total;
+                if(abs(total-target)<abs(prevSum-target)){
+                    prevSum = total;
                 }
                 if(total<target){
                     i++;
@@ -23,6 +23,6 @@ public:
 
             }
         }
-        return max_diff;
+        return prevSum;
     }
 };
