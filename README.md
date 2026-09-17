@@ -98,6 +98,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1046-last-stone-weight) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1406-stone-game-iii) |
@@ -137,6 +138,7 @@
 | [0409-longest-palindrome](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1400-construct-k-palindrome-strings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -239,6 +241,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0520-detect-capital) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1400-construct-k-palindrome-strings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -287,6 +290,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1400-construct-k-palindrome-strings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
