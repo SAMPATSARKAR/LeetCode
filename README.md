@@ -144,6 +144,7 @@
 | [1400-construct-k-palindrome-strings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -253,6 +254,7 @@
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -296,6 +298,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1400-construct-k-palindrome-strings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
