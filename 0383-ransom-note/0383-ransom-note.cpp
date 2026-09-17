@@ -1,21 +1,15 @@
 class Solution {
 public:
-    bool canConstruct(string r, string m) {
-        vector<int> v(26,0);
-        for(int i=0;i<m.size();i++){
-            v[m[i]-'a']++;
+    bool canConstruct(string ransomNote, string magazine) {
+        vector<int> m(26,0);
+        int n = magazine.size();
+        for(int i=0;i<n;i++){
+            m[magazine[i]-'a']++;
         }
-        for(auto x:r){
-            if(v[x-'a']==0) return false;
-            v[x-'a']--;
-
+        for(auto x:ransomNote){
+            if(m[x-'a']==0) return false;
+            m[x-'a']--;
         }
-        // for(int i=0;i<26;i++){
-        //     i
-        //     if(v[i]<0){
-        //         return false;
-        //     }
-        // }
         return true;
     }
 };
