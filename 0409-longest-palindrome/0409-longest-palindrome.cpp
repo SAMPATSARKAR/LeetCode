@@ -1,24 +1,25 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        int n = s.size();
-        unordered_map<char,int> v;
-        for(int i=0;i<s.size();i++){
-            v[s[i]]++;
+        int n=s.size();
+        unordered_map<char,int> mp;
+        for(int i=0;i<n;i++){
+            mp[s[i]]++;
         }
         int sum=0;
-        int count=0;
-        for(auto x: v){
+        bool count=false;
+        for(auto x: mp){
             if(x.second%2==0){
                 sum+=x.second;
-            }else{
+            }
+            else{
                 sum+=x.second-1;
-                count++;
+                count=true;
             }
         }
-        return (count>=1) ? sum+1 : sum;
-
-
-        
+        if(count){
+            return sum+1;
+        }
+        return sum;
     }
 };
