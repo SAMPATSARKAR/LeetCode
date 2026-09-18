@@ -57,6 +57,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -155,6 +157,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0217-contains-duplicate) |
@@ -235,6 +238,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0383-ransom-note) |
