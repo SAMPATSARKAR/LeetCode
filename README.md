@@ -221,6 +221,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -236,6 +237,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -265,6 +267,7 @@
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
@@ -590,4 +593,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 <!---LeetCode Topics End-->
