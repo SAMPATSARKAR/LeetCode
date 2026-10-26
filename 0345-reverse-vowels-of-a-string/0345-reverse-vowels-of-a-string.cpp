@@ -11,14 +11,14 @@ bool isVowel(char a){
         int i=0;
         int j=s.size()-1;
         while(i<j){
-            while( i<j && !isVowel(s[i]) ){
+           while(i<j && !isVowel(s[i])){
                 i++;
-            }
-            while( i<j && !isVowel(s[j]) ){
-                j--;
-            }
-            swap(s[i],s[j]);
-            i++;j--;
+           }
+           while(i<j && !isVowel(s[j])){
+            j--;
+           }
+           swap(s[i],s[j]);
+           i++;j--;
         }
         return s;
     }
