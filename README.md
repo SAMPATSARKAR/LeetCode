@@ -66,6 +66,7 @@
 | [0051-n-queens](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0078-subsets) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -409,6 +411,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
