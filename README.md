@@ -12,6 +12,7 @@
 | [0070-climbing-stairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0263-ugly-number) |
@@ -78,6 +79,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0217-contains-duplicate) |
@@ -473,6 +475,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1447-simplified-fractions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1447-simplified-fractions) |
@@ -513,6 +516,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -612,4 +616,16 @@
 |  |
 | ------- |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
