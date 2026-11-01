@@ -302,6 +302,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -543,6 +544,7 @@
 | [0112-path-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -551,6 +553,7 @@
 | [0101-symmetric-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0112-path-sum) |
+| [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -591,6 +594,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Ternary Search
 |  |
@@ -628,4 +632,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0204-count-primes) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
