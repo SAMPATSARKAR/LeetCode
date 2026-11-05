@@ -73,6 +73,7 @@
 | [0075-sort-colors](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -145,6 +146,7 @@
 | [0001-two-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -663,4 +665,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
