@@ -98,6 +98,7 @@
 | [0486-predict-the-winner](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0704-binary-search) |
@@ -156,6 +157,7 @@
 | [0383-ransom-note](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -412,6 +414,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
