@@ -11,15 +11,11 @@ public:
             maxi=max(maxi,arr[s[r]-'A']);
             if((r-l+1)-maxi>k){
                 arr[s[l]-'A']--;
-                maxi=0;
-                for(int i=0;i<26;i++){
-                    maxi=max(maxi,arr[i]);
-                }
                 l++;
             }
-            if((r-l+1)-maxi<=k){
+            
                 maxlen=max(maxlen,(r-l+1));
-            }
+            
             r++;
         }
         return maxlen;
