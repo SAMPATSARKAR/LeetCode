@@ -11,6 +11,10 @@ public:
             maxi=max(maxi,arr[s[r]-'A']);
             if((r-l+1)-maxi>k){
                 arr[s[l]-'A']--;
+                maxi=0;
+                for(int i=0;i<26;i++){
+                    maxi=max(maxi,arr[i]);
+                }
                 l++;
             }
             if((r-l+1)-maxi<=k){
@@ -19,6 +23,8 @@ public:
             r++;
         }
         return maxlen;
+
+
         // for(int i=0;i<n;i++){
         //     int arr[26]={0} ,maxfreq=0;
         //     for(int j=i;j<n;j++){
