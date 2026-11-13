@@ -114,6 +114,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -168,6 +169,7 @@
 | [0904-fruit-into-baskets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -347,6 +349,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -507,6 +510,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
