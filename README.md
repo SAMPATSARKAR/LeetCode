@@ -99,6 +99,7 @@
 | [0486-predict-the-winner](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -500,6 +501,7 @@
 | [0020-valid-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1598-crawler-log-folder](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1598-crawler-log-folder) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3174-clear-digits) |
@@ -713,4 +715,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
