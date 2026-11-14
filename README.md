@@ -142,6 +142,7 @@
 | [2614-prime-in-diagonal](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2974-minimum-number-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2974-minimum-number-game) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -444,6 +445,7 @@
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2574-left-and-right-sum-differences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -515,6 +517,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Number Theory
 |  |
 | ------- |
