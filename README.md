@@ -144,6 +144,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2974-minimum-number-game) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -185,6 +186,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -526,6 +528,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Number Theory
 |  |
