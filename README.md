@@ -33,6 +33,7 @@
 | [1406-stone-game-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2413-smallest-even-multiple](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -127,6 +128,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1598-crawler-log-folder](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -390,6 +392,7 @@
 | [1025-divisor-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -444,6 +447,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
