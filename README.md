@@ -316,6 +316,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
@@ -429,6 +430,7 @@
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2109-adding-spaces-to-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
