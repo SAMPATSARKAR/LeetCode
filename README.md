@@ -76,6 +76,7 @@
 | [0078-subsets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -385,6 +386,7 @@
 | [0062-unique-paths](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0338-counting-bits) |
@@ -464,6 +466,7 @@
 | [0063-unique-paths-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -509,6 +512,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -726,6 +730,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
