@@ -65,6 +65,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0051-n-queens) |
@@ -253,6 +254,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -382,6 +384,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -511,6 +514,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -729,6 +733,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0496-next-greater-element-i) |
