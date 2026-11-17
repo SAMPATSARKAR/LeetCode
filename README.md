@@ -488,6 +488,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
@@ -518,6 +519,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1598-crawler-log-folder](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1598-crawler-log-folder) |
