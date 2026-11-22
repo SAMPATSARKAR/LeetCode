@@ -136,6 +136,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1598-crawler-log-folder](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1598-crawler-log-folder) |
+| [1631-path-with-minimum-effort](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -352,6 +353,7 @@
 | [1046-last-stone-weight](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -435,6 +437,7 @@
 | [0875-koko-eating-bananas](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -484,6 +487,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0909-snakes-and-ladders](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/SAMPATSARKAR/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -630,6 +634,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -640,6 +645,7 @@
 | [0112-path-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0112-path-sum) |
 | [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
 | [0909-snakes-and-ladders](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [1631-path-with-minimum-effort](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -727,6 +733,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Segment Tree
 |  |
 | ------- |
@@ -748,6 +755,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1631-path-with-minimum-effort](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
 | ------- |
