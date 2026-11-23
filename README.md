@@ -354,6 +354,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -413,6 +414,7 @@
 | [0486-predict-the-winner](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -639,6 +641,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -649,6 +652,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0112-path-sum) |
 | [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0909-snakes-and-ladders](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1631-path-with-minimum-effort](https://github.com/SAMPATSARKAR/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -692,6 +696,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Ternary Search
 |  |
@@ -735,6 +740,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
