@@ -309,6 +309,7 @@
 | [0049-group-anagrams](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0383-ransom-note) |
@@ -407,6 +408,7 @@
 | [0063-unique-paths-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0338-counting-bits) |
@@ -506,6 +508,7 @@
 | [0051-n-queens](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/SAMPATSARKAR/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SAMPATSARKAR/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Design
 |  |
